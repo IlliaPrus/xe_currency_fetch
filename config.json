@@ -1,0 +1,33 @@
+{
+  "interval_seconds": 15,
+  "currency_pairs": [
+    [
+      "EUR",
+      "GBP"
+    ],
+    [
+      "USD",
+      "EUR"
+    ],
+    [
+      "JPY",
+      "USD"
+    ],
+    [
+      "AUD",
+      "CAD"
+    ],
+    [
+      "CHF",
+      "GBP"
+    ],
+    [
+      "ZAR",
+      "USD"
+    ],
+    [
+      "USD",
+      "ZAR"
+    ]
+  ]
+}
